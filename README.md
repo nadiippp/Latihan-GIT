@@ -1,5 +1,3 @@
-# Latihan-GIT
+# TES TES TES
 
-Muhammad Nadhif Pasya Ikhsan
-
-![alt text](image.png)
+NADHIF
