@@ -1,3 +1,3 @@
 # Latihan-GIT
-# Latihan-GI
-assalamualaikum
+# Latihan-GIM
+Muhammad Nadhif Pasya Ikhsan
